@@ -12,3 +12,5 @@ Simple DLL Manual Mapper that uses frequently used iat functions to execute shel
 ## Usage
 * Open executable normally.
 * pass arguments via command line. (injector64.exe <process> <dllpath>)
+
+You can use [Kernel Mode DLL Injector](https://github.com/rft0/km-dll-mapper) for similiar and extended program.
